@@ -1,3 +1,5 @@
+RESUME-BUILDER:
+
 The Resume Builder App is a frontend web application designed to help users create professional resumes easily and efficiently. The app is built using React and Redux, two popular JavaScript libraries, and allows users to select from a variety of resume templates to customize their own resume. General Description:-
 
 The project contains four main pages:- =>Home page: In this ,on the top, there is a navigation bar with logo and showing three links at the right to navigate - ->Resume Template- it will take the user to the home page ->My Resume- here the user can see their latest created resume ->About Us
